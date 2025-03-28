@@ -1,3 +1,3 @@
 ```
-ln -nfs flake.nix <target>.nix
+make flake
 ```
